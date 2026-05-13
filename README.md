@@ -23,5 +23,5 @@ This project analyses customer transaction data to identify spending patterns, s
 (Add your screenshot here)
 
 ## 📁 Files Included
-- dashboard.xlsx
+- Customer-Spending-Analysis.xlsx
 - dashboard.png
